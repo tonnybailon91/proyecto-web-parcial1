@@ -1,2 +1,1 @@
-# proyecto-web-parcial1
-software de Automatización De Sílabos Para La ULEAM
+# MP_WEB1_1P
